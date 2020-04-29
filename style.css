@@ -10,3 +10,7 @@ p {
 .top {
     border-top: 0px;
 }
+
+p:hover {
+    background: orangered;
+}
